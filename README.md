@@ -38,8 +38,9 @@ The game also implements (for both iOS and Android):
 * **runtimeVariables.cs** - variables that run in memory to avoid unnecessary disk usage
 
 ### Links
+* [Download Swing Skills for iOS](https://apps.apple.com/app/swing-skills-rope-swing-game/id1373273640)
+* [Download Swing Skills for Android](https://play.google.com/store/apps/details?id=com.heavyfrog.ropegame)
 * [SwingSkillsGame.com](https://swingskillsgame.com)
-* [Swing Skills FAQ](https://swingskillsgame.com/support.html)
 * [Swing Skills Project Page](https://www.tamerobots.com/projects/swing-skills)
 
 ### Youtube Trailer
