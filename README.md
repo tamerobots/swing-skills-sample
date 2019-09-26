@@ -40,12 +40,13 @@ The game also implements (for both iOS and Android):
 ### Links
 * [Download Swing Skills for iOS](https://apps.apple.com/app/swing-skills-rope-swing-game/id1373273640)
 * [Download Swing Skills for Android](https://play.google.com/store/apps/details?id=com.heavyfrog.ropegame)
+* [Youtube Trailer](https://www.youtube.com/watch?v=kOu-VKq5jCI)
 * [SwingSkillsGame.com](https://swingskillsgame.com)
 * [Swing Skills Project Page](https://www.tamerobots.com/projects/swing-skills)
 
 ### Youtube Trailer
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=kOu-VKq5jCI
+<a href="https://www.youtube.com/watch?feature=player_embedded&v=kOu-VKq5jCI
 " target="_blank"><img src="http://img.youtube.com/vi/kOu-VKq5jCI/0.jpg" 
 alt="Swing Skills Trailer" border="10" /></a>
 
